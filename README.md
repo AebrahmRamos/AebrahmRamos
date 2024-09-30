@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>
-      <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=AebrahmRamos&repo=portfolio-site&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="portfolio-site" />
+      <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=gdsc-dlsu&repo=home&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="current repo wip" />
     </td>
     <td>
       <img align="center" src="https://github-contributor-stats.vercel.app/api?username=AebrahmRamos&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
